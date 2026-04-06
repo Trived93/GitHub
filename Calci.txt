@@ -1,3 +1,5 @@
 Addtion a+b+c
 Substraction a-b
+Divide a/b
+Multiply a*b
 
